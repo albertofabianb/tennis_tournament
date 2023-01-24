@@ -17,4 +17,3 @@ Faltan por ejemplo:
 - Swagger
 - PHPUnit
 - Log file, pero se puede obtener toda la actividad desde la BD.
-- Mas rutas.
