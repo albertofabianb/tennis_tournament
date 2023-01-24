@@ -13,5 +13,5 @@ Lo que falta completar es:
 - Unit Test
 - Manejo de excepciones
 - Autenticación
-
+- Mas APIs con consultas
 _________________________________________
