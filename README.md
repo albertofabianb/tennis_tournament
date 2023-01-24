@@ -16,3 +16,10 @@ Descargar el repositorio
 2. Se debe configurar el archivo ".env" para apunte a una BD MySql con una base de datos llamada "tenis".
 3. Correr "php artisan migrate --seed"
 
+Faltan por ejemplo:
+- Autenticación
+- Manejo de Exceptions
+- Mas APIs
+- Swagger
+- PHPUnit
+- Log file, pero se puede obtener toda la actividad desde la BD.
