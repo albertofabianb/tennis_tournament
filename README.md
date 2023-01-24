@@ -10,12 +10,6 @@ El archivo "Geopagos-Tenis.dia" muestra la estructura de la BD para ser abierto 
 Los Sets (grupo de 6 games) no fueron implementados aunque sí fueron pensados, para simplicidad, los resultados se dan por partido (Match).
 Preferí enviarlo así en lugar de no enviar nada.
 
-Se debe instalar de la siguiente manera: 
-Descargar el repositorio
-1. Ejecutar "composer install"
-2. Se debe configurar el archivo ".env" para apunte a una BD MySql con una base de datos llamada "tenis".
-3. Correr "php artisan migrate --seed"
-
 Faltan por ejemplo:
 - Autenticación
 - Manejo de Exceptions
@@ -23,3 +17,4 @@ Faltan por ejemplo:
 - Swagger
 - PHPUnit
 - Log file, pero se puede obtener toda la actividad desde la BD.
+- Mas rutas.
